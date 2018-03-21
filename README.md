@@ -1,1 +1,2 @@
-# blockchaindfgdfg
+#区块链知识点
+1，私有链搭建
