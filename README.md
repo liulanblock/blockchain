@@ -1,1 +1,3 @@
-# blockchaindfgdfg
+# 私有链搭建，
+1，初始化
+2，启动
